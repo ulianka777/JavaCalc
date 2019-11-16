@@ -265,7 +265,7 @@ public class Calculator extends javax.swing.JFrame {
         };
         frame.setContentPane(new Calculator().JavaCalculator);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setPreferredSize(new Dimension(400, 310));
+        frame.setPreferredSize(new Dimension(450, 310));
         frame.pack();
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
