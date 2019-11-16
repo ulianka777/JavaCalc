@@ -195,17 +195,6 @@
           <text value="/"/>
         </properties>
       </component>
-      <component id="42869" class="javax.swing.JButton" binding="btnClear">
-        <constraints>
-          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
-          <gridbag weightx="1.0" weighty="1.0"/>
-        </constraints>
-        <properties>
-          <background color="-8812383"/>
-          <font name="Tahoma" size="11" style="2"/>
-          <text value="Clear"/>
-        </properties>
-      </component>
       <component id="1e9ed" class="javax.swing.JButton" binding="btnEquals">
         <constraints>
           <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
@@ -235,6 +224,17 @@
         <properties>
           <background color="-5275510"/>
           <text value="&lt;-"/>
+        </properties>
+      </component>
+      <component id="42869" class="javax.swing.JButton" binding="btnClear">
+        <constraints>
+          <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="1.0" weighty="1.0"/>
+        </constraints>
+        <properties>
+          <background color="-8812383"/>
+          <font name="Tahoma" size="11" style="2"/>
+          <text value="Clear"/>
         </properties>
       </component>
     </children>
